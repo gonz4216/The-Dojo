@@ -3,6 +3,9 @@ import './dashboard.css'
 
 export function Dashboard() {
     return (
-        <div>Dashboard</div>
+        <div>
+
+            TODO dashboard.....
+        </div>
     )
 }

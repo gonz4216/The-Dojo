@@ -38,7 +38,7 @@ export function Signup() {
     }
     setThumbnailError(null)
     setThumbnail(selected)
-    console.log('thumbnaihello worldl updated');
+    console.log('thumbnaihello worldl updated wifi testing');
   }
 
 
@@ -82,7 +82,7 @@ export function Signup() {
     </form>
   )
 }
-
+//
 
 const vowels = (str) => {
   let vowels = ['a', 'e', 'i', 'o', 'u']
@@ -99,3 +99,6 @@ const vowels = (str) => {
 }
 
 console.log(vowels('striaanag'))
+
+
+ 
